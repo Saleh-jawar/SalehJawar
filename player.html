@@ -21,34 +21,17 @@
             videoUrl = "http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7270/index.m3u8";
         }
         
+        // ========== استفاده از پروکسی جهانی ==========
+        // پروکسی عمومی CORS Anywhere (برای تست)
+        const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+        const finalUrl = proxyUrl + videoUrl;
+        
         const video = document.getElementById('player');
+        video.src = finalUrl;
         
-        // ========== روش جدید: استفاده از fetch با Referer ==========
-        // متاسفانه تگ video نمی‌تواند هدر Referer را مستقیماً اضافه کند
-        // بنابراین باید از تکنیک fetch + blob استفاده کنیم
-        
-        fetch(videoUrl, {
-            headers: {
-                'Referer': 'http://082dd340.amazzin.pw/',
-                'Origin': 'http://082dd340.amazzin.pw',
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            }
-        })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('HTTP ' + response.status);
-            }
-            return response.blob();
-        })
-        .then(blob => {
-            const blobUrl = URL.createObjectURL(blob);
-            video.src = blobUrl;
-            video.play();
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            document.body.innerHTML = '<div class="error">❌ خطا در پخش<br>Error loading video<br><br>ممکن است لینک منقضی شده باشد</div>';
-        });
+        video.onerror = function() {
+            document.body.innerHTML = '<div class="error">❌ خطا در پخش<br>Error loading video</div>';
+        };
     </script>
 </body>
 </html>
