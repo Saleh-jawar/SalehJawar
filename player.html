@@ -21,10 +21,9 @@
             videoUrl = "http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7270/index.m3u8";
         }
         
-        // ========== استفاده از پروکسی جهانی ==========
-        // پروکسی عمومی CORS Anywhere (برای تست)
-        const proxyUrl = "https://cors-anywhere.herokuapp.com/";
-        const finalUrl = proxyUrl + videoUrl;
+        // ========== استفاده از پروکسی خودت ==========
+        const proxyUrl = "https://stream-helper-99.salehjawhar.workers.dev/?url=";
+        const finalUrl = proxyUrl + encodeURIComponent(videoUrl);
         
         const video = document.getElementById('player');
         video.src = finalUrl;
