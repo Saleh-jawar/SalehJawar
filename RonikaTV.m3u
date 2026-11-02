@@ -8,13 +8,13 @@ https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-id="ch4" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="news",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kurdmax_sorani" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax Sorani
-https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_sorani2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax TV Backup
-https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_kurmanci" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax Kurmanci
-https://stream.kurdmax.tv/app/kurdmax-kurmanji2/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream.kurdmax.tv/app/kurdmax-kurmanji2/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_Show" tvg-logo="https://www.parsatv.com/index_files/channels/kurdmaxshow.png" group-title="kurdi",Kurdmax Show
-https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kshowbackup" tvg-logo="https://www.parsatv.com/index_files/channels/kurdmaxshow.png" group-title="kurdi",Kurdmax Show Backup
 http://live.8kultra.org/live/1701151030/4581026780/701669.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch10" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/waar.png" group-title="ent",Waar TV
@@ -44,15 +44,15 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="ch14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/MBCPersiaLogo.svg" group-title="ent",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="iribuhd1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/500px-IRIB_FARATAR_UHD.png" group-title="sports",IRIB UHD1080P
-https://live-aburayhan1106.telewebion.ir/ek/faratar/live/108050p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1106.telewebion.ir/ek/faratar/live/108050p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch15" tvg-logo="https://cdn1.movieland.af/images/channel-logos/1760950993686-807307490.svg" group-title="sports",Persiana Sports 1
-https://stream1.liveland.af/hls/tv/persiana-sports/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream1.liveland.af/hls/tv/persiana-sports/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch16" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1772531192564-564386066.svg" group-title="sports",Persiana Sports 2
 https://pepsi.abntv.live/hls/4spstream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch17" tvg-logo="https://cdn1.movieland.af/images/channels-logos/1772599356292-162790183.svg" group-title="sports",Persiana Sports 3
-https://stream1.liveland.af/hls/tv/persiana-sports-3/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream1.liveland.af/hls/tv/persiana-sports-3/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="tv3s2" tvg-logo="https://raw.githubusercontent.com/picons/picons/refs/heads/master/build-source/logos/iribtv3.default.svg" group-title="sports",IRIB TV3 Fottball
-https://stream1.liveland.af/hls/tv/irib-3/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream1.liveland.af/hls/tv/irib-3/chunklist0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch21b" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="sports",IRIB Varzesh
 https://cp11.adabmedia.com/hls2/varzeshtest.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="binerzaxo" tvg-logo="https://iili.io/CZYG2Gn.jpg" group-title="sports",Biner Zaxo
@@ -524,13 +524,13 @@ http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8|User-Agent=Mozilla/5.0 (W
 #EXTINF:-1 tvg-id="ch79" tvg-logo="https://i.postimg.cc/Skh5bzhg/TRT.png" group-title="ent",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch80" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/1920px-Nasim_TV_logo.svg.png" group-title="ent",IRIB Nasim
-https://live-aburayhan1105.telewebion.ir/ek/nasim/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1105.telewebion.ir/ek/nasim/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="ent",IRIB TV1
-https://live-aburayhan1104.telewebion.ir/ek/tv1/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/tv1/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/%D8%B4%D8%A8%DA%A9%D9%87_%D8%AF%D9%88_tv2.png" group-title="ent",IRIB TV2
-https://live-aburayhan1104.telewebion.ir/ek/tv2/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/tv2/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_TV4_logo.svg" group-title="ent",IRIB TV4
-https://live-aburayhan1104.telewebion.ir/ek/tv4/live/576p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/tv4/live/576p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch86" tvg-logo="https://www.trt1.com.tr/assets/svg/trt1-red-logo.svg" group-title="ent",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" group-title="news",TRT World
