@@ -8,11 +8,11 @@ https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-id="ch4" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="news",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kurdmax_sorani" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax Sorani
-https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_sorani2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax TV Backup
 https://stream-helper-99.salehjawhar.workers.dev/?url=https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_kurmanci" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png" group-title="kurdi",Kurdmax Kurmanci
-https://stream-helper-99.salehjawhar.workers.dev/?url=https://stream.kurdmax.tv/app/kurdmax-kurmanji2/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream.kurdmax.tv/app/kurdmax-kurmanji2/medialist_917977731947844006_hls.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kurdmax_Show" tvg-logo="https://www.parsatv.com/index_files/channels/kurdmaxshow.png" group-title="kurdi",Kurdmax Show
 https://stream-helper-99.salehjawhar.workers.dev/?url=https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="kshowbackup" tvg-logo="https://www.parsatv.com/index_files/channels/kurdmaxshow.png" group-title="kurdi",Kurdmax Show Backup
