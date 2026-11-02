@@ -30,7 +30,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-id="ch9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iran_International_logo_2021.svg/500px-Iran_International_logo_2021.svg.png" group-title="news",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="ch85" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/IRINN_LOGO_IRIB.svg" group-title="news",IRINN
-https://live-aburayhan1104.telewebion.ir/ek/irinn/live/1080p/index.m3u8
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/irinn/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="ch113" tvg-logo="https://iili.io/C1lHtz7.png" group-title="news",Shams TV
 https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ch11" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/langfr-250px-Al_Jazeera.svg.png" group-title="news",Al Jazeera
@@ -134,9 +134,9 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2559/index.m3u8|User-Agent=Mozill
 #EXTINF:-1 tvg-id="tv3s3" tvg-logo="https://raw.githubusercontent.com/picons/picons/refs/heads/master/build-source/logos/iribtv3.default.svg" group-title="sports",IRIB TV3 Server3
 https://cp11.adabmedia.com/hls2/tv3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch182" tvg-logo="https://raw.githubusercontent.com/picons/picons/refs/heads/master/build-source/logos/iribtv3.default.svg" group-title="sports",IRIB TV3
-https://live-aburayhan1104.telewebion.ir/ek/tv3/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/tv3/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch21" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="sports",IRIB Varzesh Backup
-https://live-aburayhan1104.telewebion.ir/ek/varzesh/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/varzesh/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="idman" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="sports",Idman AZ
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/16044/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ictimai" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="sports",Ictimai TV AZ
@@ -328,7 +328,7 @@ https://northtelecom.b-cdn.net/GEMKIDS/1_1001_Video.m3u8|User-Agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="ch172" tvg-logo="https://iili.io/CTzJnv2.jpg" group-title="kids",Gem Junior
 https://northtelecom.b-cdn.net/GEMJUNIOR/1_1001_Video.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch102" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/67/POOYA_tv_2.svg/960px-POOYA_tv_2.svg.png" group-title="kids",IRIB Pooya
-https://live-aburayhan1104.telewebion.ir/ek/pooya/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/pooya/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch103" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="kids",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch104" tvg-logo="https://i.imgur.com/mhAAIa2.png" group-title="kids",Kids Pang
@@ -364,7 +364,7 @@ https://str.cantechhub.com/gulfmovie/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.
 #EXTINF:-1 tvg-id="ch118" tvg-logo="https://iili.io/CJHMtPS.png" group-title="movie",4U TV
 https://hls.4utv.live/hls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="movie",IFILM
-https://live-aburayhan1104.telewebion.ir/ek/ifilm/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/ifilm/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch51" tvg-logo="https://i.postimg.cc/CYh5Hjwq/infinity.png" group-title="movie",Infinity TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch164" tvg-logo="https://iili.io/ByJSHZP.jpg" group-title="movie",Next TV
@@ -436,7 +436,7 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (W
 #EXTINF:-1 tvg-id="ch120" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="doc",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="ch84" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="doc",IRIB Mostanad
-https://live-aburayhan1104.telewebion.ir/ek/mostanad/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stream-helper-99.salehjawhar.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/mostanad/live/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="travel" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="doc",Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="cookingpanda" tvg-logo="https://cookingpanda.com/cdn/shop/files/logoHd_2.png" group-title="doc",Cooking Panda
